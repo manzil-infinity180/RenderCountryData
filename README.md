@@ -11,7 +11,7 @@ Deployed Link - https://manzil-infinity180.github.io/GetCountryDataByGeoLocation
 <h1>From GeoCode.xyz API </h1>
 <h2>Usage Limits</h3>
 
-There are currently no usage limits but response times on the free ports are normally throttled to no more than 1 request per second for all un-authenticated users combined.
+There are currently no usage limits but response times on the free ports are normally throttled to<span> no more than 1 request per second for all un-authenticated users combined</span>.
 
 If that is too slow for you, get your own server on the Amazon Cloud using this AMI. (Where the only limits are the physical limitations of the hardware you chose to run the software on).
 
