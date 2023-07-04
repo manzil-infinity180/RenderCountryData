@@ -1,4 +1,5 @@
-# GetCountryDataByGeoLocation
+# RenderCountryData 
+# 2. GetCountryDataByGeoLocation
 Get Country Data by geolocation (give access to get your Location)
 Deployed Link - https://manzil-infinity180.github.io/GetCountryDataByGeoLocation/
 
